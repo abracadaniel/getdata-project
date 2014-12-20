@@ -27,4 +27,5 @@ Activity label: different activites performed by the subject
 - WALKING_UPSTAIRS
 
 An identifier of the subject
+
 Features containing StandardDeviation and Mean of different measurements on the X,Y and Z axis

@@ -91,4 +91,4 @@ data <- appropriateLabels(data)
 data <- createTidy(data)
 
 ## write the tidy dataset
-write.table(data, "tidyData.csv", sep=",", row.names = FALSE)
+write.table(data, "tidyData.txt", sep=",", row.names = FALSE)
